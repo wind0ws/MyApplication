@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView android:text="@string/hello_world" android:layout_width="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_height="wrap_content" android:id="@+id/text" android:textSize="25sp"  />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:id="@+id/button"
+        android:text="向Activity发数据"
+        android:textSize="23sp"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnGetMsg"
+        android:text="从Activity取数据"
+        android:layout_marginTop="10dp"
+        android:textSize="23sp"
+        android:textColor="#ffff312f"/>
+
+
+</LinearLayout>

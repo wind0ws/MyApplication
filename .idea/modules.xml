@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidlayout/androidlayout.iml" filepath="$PROJECT_DIR$/androidlayout/androidlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidstudy/androidstudy.iml" filepath="$PROJECT_DIR$/androidstudy/androidstudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animation/animation.iml" filepath="$PROJECT_DIR$/animation/animation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asynctaskdemo/asynctaskdemo.iml" filepath="$PROJECT_DIR$/asynctaskdemo/asynctaskdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculator/calculator.iml" filepath="$PROJECT_DIR$/calculator/calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cvr100b/cvr100b.iml" filepath="$PROJECT_DIR$/cvr100b/cvr100b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datetimepicker/datetimepicker.iml" filepath="$PROJECT_DIR$/datetimepicker/datetimepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/earthquake/earthquake.iml" filepath="$PROJECT_DIR$/earthquake/earthquake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/filedemo/filedemo.iml" filepath="$PROJECT_DIR$/filedemo/filedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmentstudy/fragmentstudy.iml" filepath="$PROJECT_DIR$/fragmentstudy/fragmentstudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/galleryimageswitcher/galleryimageswitcher.iml" filepath="$PROJECT_DIR$/galleryimageswitcher/galleryimageswitcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gesturerecognise/gesturerecognise.iml" filepath="$PROJECT_DIR$/gesturerecognise/gesturerecognise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gridviewstudy/gridviewstudy.iml" filepath="$PROJECT_DIR$/gridviewstudy/gridviewstudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handlerstudy/handlerstudy.iml" filepath="$PROJECT_DIR$/handlerstudy/handlerstudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/km3serialdemo/km3serialdemo.iml" filepath="$PROJECT_DIR$/km3serialdemo/km3serialdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listviewasyncload/listviewasyncload.iml" filepath="$PROJECT_DIR$/listviewasyncload/listviewasyncload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listviewloaddemo/listviewloaddemo.iml" filepath="$PROJECT_DIR$/listviewloaddemo/listviewloaddemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listviewstudy/listviewstudy.iml" filepath="$PROJECT_DIR$/listviewstudy/listviewstudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylibrary/mylibrary.iml" filepath="$PROJECT_DIR$/mylibrary/mylibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myview/myview.iml" filepath="$PROJECT_DIR$/myview/myview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/optionsmenu/optionsmenu.iml" filepath="$PROJECT_DIR$/optionsmenu/optionsmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/preferencesdemo/preferencesdemo.iml" filepath="$PROJECT_DIR$/preferencesdemo/preferencesdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progressbarstudy/progressbarstudy.iml" filepath="$PROJECT_DIR$/progressbarstudy/progressbarstudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scrollviewstudy/scrollviewstudy.iml" filepath="$PROJECT_DIR$/scrollviewstudy/scrollviewstudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seekbarstudy/seekbarstudy.iml" filepath="$PROJECT_DIR$/seekbarstudy/seekbarstudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/selectcontacts/selectcontacts.iml" filepath="$PROJECT_DIR$/selectcontacts/selectcontacts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serialportdemo/serialportdemo.iml" filepath="$PROJECT_DIR$/serialportdemo/serialportdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spinnerstudy/spinnerstudy.iml" filepath="$PROJECT_DIR$/spinnerstudy/spinnerstudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqlitedemo/sqlitedemo.iml" filepath="$PROJECT_DIR$/sqlitedemo/sqlitedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/systemservicedemo/systemservicedemo.iml" filepath="$PROJECT_DIR$/systemservicedemo/systemservicedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testandroid/testandroid.iml" filepath="$PROJECT_DIR$/testandroid/testandroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toastdialog/toastdialog.iml" filepath="$PROJECT_DIR$/toastdialog/toastdialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tts/tts.iml" filepath="$PROJECT_DIR$/tts/tts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tweenanimation/tweenanimation.iml" filepath="$PROJECT_DIR$/tweenanimation/tweenanimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewflipperstudy/viewflipperstudy.iml" filepath="$PROJECT_DIR$/viewflipperstudy/viewflipperstudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpagerstudy/viewpagerstudy.iml" filepath="$PROJECT_DIR$/viewpagerstudy/viewpagerstudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webviewstudy/webviewstudy.iml" filepath="$PROJECT_DIR$/webviewstudy/webviewstudy.iml" />
+    </modules>
+  </component>
+</project>

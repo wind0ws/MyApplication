@@ -1,0 +1,18 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.michael.jiang.fragmentstudy.SecondActivity">
+
+    <!-- 这个是静态加载的Fragment，是通过Fragment标签插入当前的布局文件当中的-->
+    <fragment
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:tag="myfragment_tag"
+        android:layout_marginTop="10dp"
+        android:name="com.michael.jiang.fragmentstudy.MyFragment"
+        tools:layout="@layout/fragment"/>
+
+</RelativeLayout>

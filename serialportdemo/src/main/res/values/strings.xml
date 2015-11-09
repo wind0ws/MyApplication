@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SerialPort</string>
+    <string name="action_settings">设置</string>
+    <string name="cmd">Cmd:</string>
+    <string name="logdata">Log:</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="send">Send</string>
+    <string name="clear">Clear Log</string>
+    <string name="receive">Reception</string>
+    <string name="serialport">Serial Port:</string>
+    <string name="hex">HEX</string>
+    <string name="baudrate">Baudrate:</string>
+    <string name="portnotopened">Port not opened</string>
+
+    <string name="mode">Serial Mode:</string>
+
+    <string name="selectmode">Select Mode</string>
+
+    <string name="rts">RTS:</string>
+    <string name="setRTS">Set RTS Signal</string>
+    <string name="title_activity_test">TestActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>

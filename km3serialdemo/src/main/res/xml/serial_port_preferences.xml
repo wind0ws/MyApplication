@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" android:title="Serial port setup">
+
+    <ListPreference android:key="DISPLAY_DEVICE" android:title="Console Display Device" android:persistent="true" android:entries="@array/device_names" android:entryValues="@array/device_values"/>
+    <ListPreference android:key="DEVICE_CAR" android:title="Device Car" android:persistent="true"/>
+    <ListPreference android:entries="@array/baudrates_name" android:entryValues="@array/baudrates_value" android:key="BAUDRATE_CAR" android:persistent="true" android:title="Car Baud Rate"/>
+    <ListPreference android:title="Show Mode Car" android:key="SHOW_MODE_CAR" android:persistent="true" android:entries="@array/mode_names" android:entryValues="@array/mode_values" />
+    <ListPreference android:key="DEVICE_GPS" android:title="Device Gps" android:persistent="true"/>
+    <ListPreference android:entries="@array/baudrates_name" android:entryValues="@array/baudrates_value" android:key="BAUDRATE_GPS" android:persistent="true" android:title="Gps Baud Rate"/>
+    <ListPreference android:title="Show Mode Gps" android:key="SHOW_MODE_GPS" android:persistent="true" android:entries="@array/mode_names" android:entryValues="@array/mode_values" />
+    <ListPreference android:title="GPS Protocol" android:key="GPS_PROTOCOL" android:persistent="true"/>
+    <ListPreference android:title="GpsTimeStyle" android:key="GPS_TIME_STYLE" android:persistent="true"/>
+    <ListPreference android:title="GpsCalSpeedStyle" android:key="GPS_CAL_SPEED_STYLE" android:persistent="true"/>
+
+</PreferenceScreen>

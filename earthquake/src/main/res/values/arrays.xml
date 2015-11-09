@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="update_freq_options">
+        <item>1分钟</item>
+        <item>5分钟</item>
+        <item>10分钟</item>
+        <item>15分钟</item>
+        <item>1小时</item>
+    </string-array>
+    <string-array name="update_freq_values">
+        <item>60</item>
+        <item>300</item>
+        <item>600</item>
+        <item>900</item>
+        <item>3600</item>
+    </string-array>
+
+    <string-array name="min_magnitude_options">
+        <item>0级</item>
+        <item>1级</item>
+        <item>3级</item>
+        <item>5级</item>
+        <item>6级</item>
+        <item>7级</item>
+        <item>8级</item>
+    </string-array>
+    <string-array name="min_magnitude_values">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+</resources>

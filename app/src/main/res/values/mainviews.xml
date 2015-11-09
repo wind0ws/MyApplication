@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txtvewinfo_text">我是内容</string>
+    <string name="btnSecondActivity">New Button</string>
+    <string name="btnSecondActivity_txt">第二个窗体</string>
+    <string name="btnthirdacitivity_txt">第三个窗体</string>
+    <string name="tipInputContent">请输入内容：</string>
+</resources>

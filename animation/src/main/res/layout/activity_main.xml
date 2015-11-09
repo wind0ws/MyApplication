@@ -1,0 +1,55 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Alpha动画"
+        android:id="@+id/btnAlpha"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:onClick="onClick"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Translate动画"
+        android:id="@+id/btnTranslate"
+        android:onClick="onClick"
+        android:layout_below="@+id/btnAlpha"
+        android:layout_alignLeft="@+id/btnAlpha"
+        android:layout_alignStart="@+id/btnAlpha"
+        android:layout_alignRight="@+id/btnAlpha"
+        android:layout_alignEnd="@+id/btnAlpha" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rotate动画"
+        android:id="@+id/btnRotate"
+        android:onClick="onClick"
+        android:layout_below="@+id/btnTranslate"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Scale动画"
+        android:id="@+id/btnScale"
+        android:onClick="onClick"
+        android:layout_below="@+id/btnRotate"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:id="@+id/imageView"
+        android:onClick="onClick"
+        android:layout_alignParentBottom="true"
+        android:src="@mipmap/ic_launcher"
+        android:layout_centerHorizontal="true"/>
+</RelativeLayout>

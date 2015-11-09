@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:\Program Files\Android\android-studio\gradle\gradle-2.4" />
+        <option name="gradleJvm" value="1.7" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/androidlayout" />
+            <option value="$PROJECT_DIR$/androidstudy" />
+            <option value="$PROJECT_DIR$/animation" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/asynctaskdemo" />
+            <option value="$PROJECT_DIR$/calculator" />
+            <option value="$PROJECT_DIR$/cvr100b" />
+            <option value="$PROJECT_DIR$/datetimepicker" />
+            <option value="$PROJECT_DIR$/earthquake" />
+            <option value="$PROJECT_DIR$/filedemo" />
+            <option value="$PROJECT_DIR$/fragmentstudy" />
+            <option value="$PROJECT_DIR$/galleryimageswitcher" />
+            <option value="$PROJECT_DIR$/gesturerecognise" />
+            <option value="$PROJECT_DIR$/gridviewstudy" />
+            <option value="$PROJECT_DIR$/handlerstudy" />
+            <option value="$PROJECT_DIR$/km3serialdemo" />
+            <option value="$PROJECT_DIR$/listviewasyncload" />
+            <option value="$PROJECT_DIR$/listviewloaddemo" />
+            <option value="$PROJECT_DIR$/listviewstudy" />
+            <option value="$PROJECT_DIR$/mylibrary" />
+            <option value="$PROJECT_DIR$/myview" />
+            <option value="$PROJECT_DIR$/optionsmenu" />
+            <option value="$PROJECT_DIR$/preferencesdemo" />
+            <option value="$PROJECT_DIR$/progressbarstudy" />
+            <option value="$PROJECT_DIR$/scrollviewstudy" />
+            <option value="$PROJECT_DIR$/seekbarstudy" />
+            <option value="$PROJECT_DIR$/selectcontacts" />
+            <option value="$PROJECT_DIR$/serialportdemo" />
+            <option value="$PROJECT_DIR$/spinnerstudy" />
+            <option value="$PROJECT_DIR$/sqlitedemo" />
+            <option value="$PROJECT_DIR$/systemservicedemo" />
+            <option value="$PROJECT_DIR$/testandroid" />
+            <option value="$PROJECT_DIR$/toastdialog" />
+            <option value="$PROJECT_DIR$/tts" />
+            <option value="$PROJECT_DIR$/tweenanimation" />
+            <option value="$PROJECT_DIR$/viewflipperstudy" />
+            <option value="$PROJECT_DIR$/viewpagerstudy" />
+            <option value="$PROJECT_DIR$/webviewstudy" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

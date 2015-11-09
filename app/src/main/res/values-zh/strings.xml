@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyAndroid</string>
+    <string name="action_settings">设置</string>
+    <string name="btnSecondActivity">第二个窗体</string>
+    <string name="btnSecondActivity_txt">第二个窗体</string>
+    <string name="btn_firstactivity">第一个窗体</string>
+    <string name="btnthirdacitivity_txt">第三个窗体</string>
+    <string name="displayMsg">显示信息</string>
+    <string name="hello">你好</string>
+    <string name="hello_world">你好，世界</string>
+    <string name="str_return">返回</string>
+    <string name="tipInputContent">请输入内容：</string>
+    <string name="tip_inputinfo">请输入信息：</string>
+    <string name="title_activity_second">第二窗体</string>
+    <string name="title_activity_third">第三窗体</string>
+    <string name="txtvewinfo_text">内容</string>
+</resources>

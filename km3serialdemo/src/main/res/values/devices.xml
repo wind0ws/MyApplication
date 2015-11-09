@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="device_names">
+        <item>CarSerialPort</item>
+        <item>GpsSerialPort</item>
+    </string-array>
+    <string-array name="device_values">
+        <item>Car</item>
+        <item>Gps</item>
+    </string-array>
+</resources>

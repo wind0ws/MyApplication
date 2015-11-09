@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.michael.jiang.myapplication" >
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".LinearVerticalActivity"
+            android:label="@string/title_activity_linear_vertical" >
+        </activity>
+        <activity
+            android:name=".LinearHorizontalActivity"
+            android:label="@string/title_activity_linear_horizontal" >
+        </activity>
+        <activity
+            android:name=".TableLayoutActivity"
+            android:label="@string/title_activity_table_layout" >
+        </activity>
+        <activity
+            android:name=".FrameLayoutActivity"
+            android:label="@string/title_activity_frame_layout" >
+        </activity>
+      <!--  <activity android:name="com.example.mylibrary.LibraryActivity"/>  已经在类库中声明过了-->
+        <service android:name=".MyService" android:exported="true"></service>
+    </application>
+
+</manifest>

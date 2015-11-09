@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mode_names">
+        <item>Hex</item>
+        <item>String</item>
+    </string-array>
+    <string-array name="mode_values">
+        <item>hex</item>
+        <item>string</item>
+    </string-array>
+</resources>

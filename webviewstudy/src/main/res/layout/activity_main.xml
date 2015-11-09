@@ -1,0 +1,30 @@
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/editURL"
+        android:hint="请输入要访问的网址"
+        android:layout_weight="8"
+        />
+    <Button
+        android:layout_width="40dp"
+        android:layout_height="match_parent"
+        android:id="@+id/btnBrowse"
+        android:text="访问"
+        android:layout_weight="1"/>
+    </LinearLayout>
+    <WebView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/webView">
+        </WebView>
+
+</LinearLayout>
